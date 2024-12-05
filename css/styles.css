@@ -595,7 +595,8 @@ ul {
 }
 
 .modal-window-forms {
-    display: contents;
+    display: flex;
+    flex-direction: column;
 }
 
 .modal-container {
